@@ -61,5 +61,3 @@ This project cleans and prepares the *Netflix Titles dataset* for analysis using
 * Suitable for *EDA (Exploratory Data Analysis), **visualizations, and **machine learning models*
 
 ---
-
-👉 Do you want me to also format this README with *code snippets* (Python cleaning script) included, so others can directly run it from GitHub?
